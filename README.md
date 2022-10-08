@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balien-12
+- 👋 Hi, I’m [Bailey!](https://github.com/balien-12)
 - 👀 I’m interested in robotics and practical applications for code.
 - 🌱 I’m currently learning Perl and C#
 - 📫 How to reach me: bondebaileyc@gmail.com
